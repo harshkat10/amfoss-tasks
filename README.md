@@ -15,6 +15,6 @@
 [Task-10](https://github.com/harshkat10/amfoss-tasks/tree/main/task10)|CS50|did till week 1
 [Task-11](https://github.com/harshkat10/amfoss-tasks/tree/main/task11)|Poster Design|Completed
 [Task-12](https://github.com/harshkat10/amfoss-tasks/tree/main/task12)|Make the Block|Attempted partially
-[Task-13](https://github.com/harshkat10/amfoss-tasks/tree/main/task13)|Circuit Design (for Hardware freaks)|Not attempted
+[Task-13](https://github.com/harshkat10/amfoss-tasks/tree/main/task13)|Circuit Design (for Hardware freaks)|Not done uet
 [Task-14](https://github.com/harshkat10/amfoss-tasks/tree/main/task14)|Bandit|Completed
-[Task-15](https://github.com/harshkat10/amfoss-tasks/tree/main/task15)|Project Euler|Attempted partially
+[Task-15](https://github.com/harshkat10/amfoss-tasks/tree/main/task15)|Project Euler|Not done yet
