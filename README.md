@@ -14,7 +14,7 @@
 [Task-09](https://github.com/harshkat10/amfoss-tasks/tree/main/task09)|Setup a Simple Personal Website|Completed
 [Task-10](https://github.com/harshkat10/amfoss-tasks/tree/main/task10)|CS50|did till week 1
 [Task-11](https://github.com/harshkat10/amfoss-tasks/tree/main/task11)|Poster Design|Completed
-[Task-12](https://github.com/harshkat10/amfoss-tasks/tree/main/task12)|Make the Block|Attempted partially
+[Task-12](https://github.com/harshkat10/amfoss-tasks/tree/main/task12)|Make the Block|Not done yet
 [Task-13](https://github.com/harshkat10/amfoss-tasks/tree/main/task13)|Circuit Design (for Hardware freaks)|Not done uet
 [Task-14](https://github.com/harshkat10/amfoss-tasks/tree/main/task14)|Bandit|Completed
 [Task-15](https://github.com/harshkat10/amfoss-tasks/tree/main/task15)|Project Euler|Not done yet
