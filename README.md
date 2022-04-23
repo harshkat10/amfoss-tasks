@@ -9,10 +9,10 @@
 [Task-04](https://github.com/harshkat10/amfoss-tasks/tree/main/task04)|Aerglo Mars|Completed
 [Task-05](https://github.com/harshkat10/amfoss-tasks/tree/main/task05)|Let me C|completed
 [Task-06](https://github.com/harshkat10/amfoss-tasks/tree/main/task06)|Flutter based UI task|Completed
-[Task-07](https://github.com/harshkat10/amfoss-tasks/tree/main/task07)|Rich Scraper|Attempted partially
+[Task-07](https://github.com/harshkat10/amfoss-tasks/tree/main/task07)|Rich Scraper|Completed
 [Task-08](https://github.com/harshkat10/amfoss-tasks/tree/main/task08)|JSExplorer|Completed
 [Task-09](https://github.com/harshkat10/amfoss-tasks/tree/main/task09)|Setup a Simple Personal Website|Completed
-[Task-10](https://github.com/harshkat10/amfoss-tasks/tree/main/task10)|CS50|did till week 1
+[Task-10](https://github.com/harshkat10/amfoss-tasks/tree/main/task10)|CS50|did till week 2
 [Task-11](https://github.com/harshkat10/amfoss-tasks/tree/main/task11)|Poster Design|Completed
 [Task-12](https://github.com/harshkat10/amfoss-tasks/tree/main/task12)|Make the Block|Not done yet
 [Task-13](https://github.com/harshkat10/amfoss-tasks/tree/main/task13)|Circuit Design (for Hardware freaks)|Not done uet
